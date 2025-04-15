@@ -1,0 +1,70 @@
+ [   {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A concentrated coffee beverage brewed by forcing hot water through finely-ground coffee beans.",
+      "ingredients": ["Coffee beans", "Water"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "An espresso-based coffee drink topped with steamed milk foam.",
+      "ingredients": ["Espresso", "Steamed milk", "Milk foam"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "A coffee drink made with espresso and steamed milk.",
+      "ingredients": ["Espresso", "Steamed milk"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 4,
+      "name": "French Press",
+      "description": "A coffee brewing method that uses a plunger to separate the grounds from the liquid.",
+      "ingredients": ["Coarsely ground coffee", "Hot water"],
+      "brewingMethod": "French press"
+    },
+    {
+      "id": 5,
+      "name": "Cold Brew",
+      "description": "A smooth coffee made by steeping coarsely ground coffee beans in cold water for an extended period.",
+      "ingredients": ["Coarsely ground coffee", "Cold water"],
+      "brewingMethod": "Cold brew"
+    },
+    {
+      "id": 6,
+      "name": "Americano",
+      "description": "A diluted espresso with hot water, resembling traditional drip coffee.",
+      "ingredients": ["Espresso", "Hot water"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 7,
+      "name": "Mocha",
+      "description": "A chocolate-flavored espresso drink with steamed milk and foam.",
+      "ingredients": ["Espresso", "Steamed milk", "Chocolate syrup"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 8,
+      "name": "Macchiato",
+      "description": "An espresso drink with a small amount of steamed milk or foam.",
+      "ingredients": ["Espresso", "Steamed milk"],
+      "brewingMethod": "Espresso machine"
+    },
+    {
+      "id": 9,
+      "name": "Turkish Coffee",
+      "description": "A traditional method of brewing unfiltered coffee with finely ground coffee beans.",
+      "ingredients": ["Finely ground coffee", "Water", "Sugar (optional)"],
+      "brewingMethod": "Cezve (Turkish pot)"
+    },
+    {
+      "id": 10,
+      "name": "Affogato",
+      "description": "A dessert coffee made by pouring a shot of hot espresso over a scoop of vanilla ice cream.",
+      "ingredients": ["Espresso", "Vanilla ice cream"],
+      "brewingMethod": "Espresso machine"
+    }]
